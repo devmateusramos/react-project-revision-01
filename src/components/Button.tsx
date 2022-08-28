@@ -1,3 +1,3 @@
 export const Button = () => {
- return <h1>ola</h1>
+ return <h1>ola mundo</h1>
 }
